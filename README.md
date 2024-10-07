@@ -38,7 +38,7 @@ Before setting up the application, ensure that the following software is install
 Cloning the Repository
 To obtain the source code for your application, clone the repository from GitHub:
 bash
-git clone https://github.com/navgurukul/laptop-management-client.git
+git clone [https://github.com/navgurukul/laptop-management-client.git](https://github.com/Shivansh3218/laptop-management-client/tree/main/client)
 
 Installing Dependencies
 Navigate into the cloned directory and install the required dependencies specified in package.json:
