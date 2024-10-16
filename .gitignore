@@ -1,0 +1,13 @@
+# Ignore node_modules in the client folder
+/client/node_modules/
+
+# Ignore node_modules in the server folder
+/server/node_modules/
+
+# Ignore node_modules in the Ubuntu Automation Electron app folder
+/ubuntu-automation-electron-app/node_modules/
+
+
+
+# Ignore the output directory in the Ubuntu Automation Electron app folder
+/ubuntu-automation-electron-app/out
