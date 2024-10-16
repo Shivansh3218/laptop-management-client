@@ -5,7 +5,7 @@
 /server/node_modules/
 
 # Ignore node_modules in the Ubuntu Automation Electron app folder
-/ubuntu-automation-electron-app/node_modules/
+/ubuntu-automation-electron-app/node_modules/*
 
 
 
